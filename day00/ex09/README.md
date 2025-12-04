@@ -7,7 +7,13 @@ A tiny Python package with one function: `count_in_list`.
 Build and install locally:
 
 ```bash
-make install
+python3 install.py
+```
+
+And to uninstall it:
+
+```bash
+python3 uninstall.py
 ```
 
 ## Usage
